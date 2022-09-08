@@ -1,11 +1,11 @@
+/* headline styling */
 h1 {
     color:blueviolet;
     font-size: 60px;
     text-align: center;
     font-weight: 900;
 }
-
+/* subhead styling */
 h2 {
     color:yellow;
-    
 }
